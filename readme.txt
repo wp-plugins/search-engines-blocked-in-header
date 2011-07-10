@@ -4,12 +4,12 @@ Donate link: http://www.nostromo.nl/wordpress-plugins/search-engines-blocked-in-
 Tags: privacy, search, engines, engines, blocked, header, admin
 Requires at least: 3.2
 Tested up to: 3.2
-Stable tag: 0.1
+Stable tag: 0.1.1
 
-In WordPress 3.2 the 'Search Engines Blocked' notification was moved to the Right Now box. This plugin displays the 'Search Engines Blocked' notification in the header.
+Display the 'Search Engines Blocked' notification in the Header in the Admin area.
 
 == Description ==
-
+In WordPress 3.2 the 'Search Engines Blocked' notification was moved to the Right Now box. This plugin displays the 'Search Engines Blocked' notification in the header.
 If you have any comments or questions, please leave a reply at http://www.nostromo.nl/wordpress-plugins/search-engines-blocked-in-header
 
 == Installation ==
@@ -23,6 +23,9 @@ If you have any comments or questions, please leave a reply at http://www.nostro
 == Screenshots ==
 
 == Changelog ==
+
+= 0.1.1 =
+* Modified description and short description. No functional changes.
 
 = 0.1 =
 * Initial Release
