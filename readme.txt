@@ -4,7 +4,7 @@ Donate link: http://www.nostromo.nl/wordpress-plugins/search-engines-blocked-in-
 Tags: privacy, search, engines, engines, blocked, header, admin
 Requires at least: 3.2
 Tested up to: 3.3
-Stable tag: 0.2
+Stable tag: 0.2.1
 
 Display the 'Search Engines Blocked' notification in the Header in the Admin area.
 
