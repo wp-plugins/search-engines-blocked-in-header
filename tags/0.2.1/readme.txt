@@ -25,10 +25,10 @@ If you have any comments or questions, please leave a reply at http://www.nostro
 == Changelog ==
 
 = 0.2.1 =
-* Fixed type on the readme.txt (stupid me). Also fixed version number in plugin code. (stupid me again)
+* Fixed typo in the readme.txt (stupid me). Also fixed version number in plugin code. (stupid me again)
 
 = 0.2 =
-* Minor changes to CSS becuase of changes in WordPress 3.3.
+* Minor changes to CSS because of changes in WordPress 3.3.
 
 = 0.1.1 =
 * Modified description and short description. No functional changes.
