@@ -14,7 +14,7 @@ function nostromo_sebih() {
         $title = apply_filters('privacy_on_link_title', __('Your site is asking search engines not to index its content'));
         $content = apply_filters('privacy_on_link_text', __('Search Engines Blocked'));
         
-        echo "<p style='float:left; position: relative; top:-4px;'><a title='$title' href='options-privacy.php'>$content</a></p>";
+        echo "<p style='position: absolute; top:39px; left: 330px;'><a title='$title' href='options-privacy.php'>$content</a></p>";
     }
 }
 ?>
