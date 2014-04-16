@@ -26,6 +26,7 @@ If you have any comments or questions, please leave a reply at http://www.nostro
 
 = 0.5 =
 * Changed displayed string to be the standard WordPress string: 'Search Engines Discouraged' . Now this plugin is multilingual.
+* Improved readability by using WordPress coding standards.
 
 = 0.4 =
 * Since WordPress 3.5.1, the privacy option has been moved to another page. This has now been adapted.
