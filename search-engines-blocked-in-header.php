@@ -4,7 +4,7 @@ Plugin Name: Search Engines Blocked in Header
 Plugin URI: http://www.nostromo.nl/wordpress-plugins/search-engines-blocked-in-header
 Description: Display the 'Search Engines Discouraged' (or any translation) notification in the WordPress Toolbar if blog_public option has been checked .
 Author: Marcel Bootsman
-Version: 0.5
+Version: 0.5.1
 Author URI: http://www.nostromo.nl
 */
 
