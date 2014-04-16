@@ -14,7 +14,7 @@ function nostromo_search_engines_blocked() {
         return;
     $url = '/wp-admin/options-reading.php';
     if (!get_option('blog_public')) {
-       $wp_admin_bar->add_menu( array( 'id' => 'search_engines_blocked', 'title' => __('Search Engines Blocked'), 'href' => $url ) );
+       $wp_admin_bar->add_menu( array( 'id' => 'search_engines_blocked', 'title' => __( 'Search Engines Discouraged' ), 'href' => $url ) );
     }
 }
 add_action( 'admin_bar_menu', 'nostromo_search_engines_blocked', 1000 );
