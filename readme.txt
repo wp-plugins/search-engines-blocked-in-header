@@ -6,10 +6,10 @@ Requires at least: 3.2
 Tested up to: 3.9
 Stable tag: 0.5.1
 
-Display the 'Search Engines Blocked' notification in the WordPress Toolbar.
+Display the 'Search Engines Discouraged' (or any translation) notification in the WordPress Toolbar if blog_public option has been checked.
 
 == Description ==
-In WordPress 3.2 the 'Search Engines Blocked' notification was moved to the Right Now box. This plugin displays the 'Search Engines Blocked' notification in WordPress Toolbar.
+In WordPress 3.2 the 'Search Engines Blocked' notification was moved to the Right Now box. This plugin displays the 'Search Engines Discouraged' (or any translation) notification in WordPress Toolbar.
 If you have any comments or questions, please leave a reply at http://www.nostromo.nl/wordpress-plugins/search-engines-blocked-in-header
 
 == Installation ==
