@@ -3,8 +3,8 @@ Contributors: mbootsman
 Donate link: http://www.nostromo.nl/wordpress-plugins/search-engines-blocked-in-header
 Tags: privacy, search, engines, engines, blocked, header, admin
 Requires at least: 3.2
-Tested up to: 3.5.1
-Stable tag: 0.4
+Tested up to: 3.9
+Stable tag: 0.5.1
 
 Display the 'Search Engines Blocked' notification in the WordPress Toolbar.
 
@@ -23,6 +23,12 @@ If you have any comments or questions, please leave a reply at http://www.nostro
 == Screenshots ==
 
 == Changelog ==
+= 0.5.1 =
+* Tagging 0.5 went horribly wrong. Fixed it.
+
+= 0.5 =
+* Changed displayed string to be the standard WordPress string: 'Search Engines Discouraged' . Now this plugin is multilingual.
+* Improved readability by using WordPress coding standards.
 
 = 0.4 =
 * Since WordPress 3.5.1, the privacy option has been moved to another page. This has now been adapted.
